@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm planning to use this space to share some updates with you on which I'm currently working on or actively looking.
+
 <!--
 **chauhankiran/chauhankiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
