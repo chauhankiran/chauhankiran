@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm planning to use this space to share some updates with you on which I'm currently working on or actively looking.
+I'm planning to use this space to share some updates with you on which I'm currently working on or actively looking. Recently, I wrote a blog post with title [Learn in Better Way for Your Life](https://chauhankiran.github.io/learn.html).
 
 <!--
 **chauhankiran/chauhankiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
